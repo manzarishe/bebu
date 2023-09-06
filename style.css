@@ -610,8 +610,7 @@ del{
 }
 #list {
 }
-#list > li {
-}
+
 #list > li > ul {
    display: none;
 }
